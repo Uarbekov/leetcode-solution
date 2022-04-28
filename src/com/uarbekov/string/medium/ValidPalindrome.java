@@ -1,4 +1,4 @@
-package com.uarbekov.string;
+package com.uarbekov.string.medium;
 
 import java.util.Locale;
 

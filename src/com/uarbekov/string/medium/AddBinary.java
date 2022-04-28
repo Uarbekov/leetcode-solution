@@ -1,4 +1,4 @@
-package com.uarbekov.string;
+package com.uarbekov.string.medium;
 
 public class AddBinary {
     public static void main(String[] args) {
